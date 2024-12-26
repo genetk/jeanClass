@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64553503.css",
+    "main.js": "/static/js/main.05e2ea6c.js",
+    "static/js/453.99c7744a.chunk.js": "/static/js/453.99c7744a.chunk.js",
+    "static/media/library Management.mp4": "/static/media/library Management.d6e3f12430436645c440.mp4",
+    "static/media/medication review.mp4": "/static/media/medication review.957c4309fe1d50d336c7.mp4",
+    "static/media/Genet Kahsay Resume.pdf": "/static/media/Genet Kahsay Resume.da5e80c6bb5037177073.pdf",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.64553503.css.map": "/static/css/main.64553503.css.map",
+    "main.05e2ea6c.js.map": "/static/js/main.05e2ea6c.js.map",
+    "453.99c7744a.chunk.js.map": "/static/js/453.99c7744a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64553503.css",
+    "static/js/main.05e2ea6c.js"
+  ]
+}
